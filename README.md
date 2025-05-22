@@ -1,5 +1,7 @@
 # Blocked-Countries API
 
+✨ **Try it live**: [Click To Try](https://your-deployment-url.com)
+
 A .NET Core API to manage blocked countries and validate IP addresses using third-party geolocation services (IPGeolocation.io). The application relies on in-memory data storage for managing blocked country lists.
 
 ## Features
